@@ -12,8 +12,28 @@
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
 </div>
+<br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
+
+- A passionate Self-taught Full-Stack Web Developer
+- Interested in Artificial Intelligence and Robotics
+- Currently learning and improving my skills in Web Development
+- Project KodeClinic [link](https://kodeclinic.mx/)
+- I’m currently open for a new job opportunity
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,aws,gcp,firebase,cpp,java,py,js,ts,cs,bash,html,css,tailwind,bootstrap,materialui,react,nextjs,nodejs,express,mongodb,kubernetes,nginx,postman,figma,linux,tensorflow,wordpress,arduino&perline=14" alt="Skills Icons">
+  </a>
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -26,28 +46,6 @@
 </div>
 
 -----
-
-<br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,aws,gcp,firebase,cpp,java,py,js,ts,cs,bash,html,css,tailwind,bootstrap,materialui,react,nextjs,nodejs,express,mongodb,kubernetes,nginx,postman,figma,linux,tensorflow,wordpress,arduino&perline=14" alt="Skills Icons">
-  </a>
-</p>
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<br>
-
-- A passionate Self-taught Full-Stack Web Developer
-- Interested in Artificial Intelligence and Robotics
-- Currently learning and improving my skills in Web Development
-- Project KodeClinic [link](https://kodeclinic.mx/)
-- I’m currently open for a new job opportunity
 
 <br><br>
 

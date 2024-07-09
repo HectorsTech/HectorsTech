@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,aws,gcp,firebase,cpp,py,js,ts,cs,bash,html,css,tailwind,bootstrap,materialui,react,nextjs,nodejs,express,mongodb,kubernetes,nginx,postman,figma,linux,tensorflow,wordpress,arduino&perline=14" alt="Skills Icons">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,atom,aws,gcp,firebase,cpp,py,js,ts,cs,bash,html,css,tailwind,bootstrap,materialui,react,vite,nextjs,nodejs,express,mongodb,kubernetes,nginx,postman,figma,linux,tensorflow,wordpress,arduino&perline=14" alt="Skills Icons">
   </a>
 </p>
 
